@@ -1,0 +1,12 @@
+# Ignore virtual environment folders
+bin/
+lib/
+Scripts/
+pyvenv.cfg
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Optional: ignore database files
+*.db

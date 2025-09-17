@@ -1,0 +1,131 @@
+{
+  "source": "original.mp4",
+  "sample_seconds": 1,
+  "hash_size": 8,
+  "frame_hashes": [
+    {
+      "time": 0.0,
+      "hash": "0000000000000000"
+    },
+    {
+      "time": 1.0,
+      "hash": "f8ffffdf27200000"
+    },
+    {
+      "time": 2.0,
+      "hash": "ffffffff37300020"
+    },
+    {
+      "time": 3.0,
+      "hash": "feffffff37200020"
+    },
+    {
+      "time": 4.0,
+      "hash": "ffffffff67604060"
+    },
+    {
+      "time": 5.0,
+      "hash": "fffffffb6f000000"
+    },
+    {
+      "time": 6.0,
+      "hash": "ffffff4f1c000000"
+    },
+    {
+      "time": 7.0,
+      "hash": "fffffffbef808000"
+    },
+    {
+      "time": 8.0,
+      "hash": "ffffe7fe9e820000"
+    },
+    {
+      "time": 9.0,
+      "hash": "fffff7e6dc800000"
+    },
+    {
+      "time": 10.0,
+      "hash": "fffffffed4840000"
+    },
+    {
+      "time": 11.0,
+      "hash": "fffffffed4840000"
+    },
+    {
+      "time": 12.0,
+      "hash": "9f99f78c3139011c"
+    },
+    {
+      "time": 13.0,
+      "hash": "9f99d7cc3139091c"
+    },
+    {
+      "time": 14.0,
+      "hash": "9f99f7d43139011c"
+    },
+    {
+      "time": 15.0,
+      "hash": "9f99f7cc3039091c"
+    },
+    {
+      "time": 16.0,
+      "hash": "9f99f3d43039091c"
+    },
+    {
+      "time": 17.0,
+      "hash": "9f99f7d43039091c"
+    },
+    {
+      "time": 18.0,
+      "hash": "07e7c7c7c7cf8f8c"
+    },
+    {
+      "time": 19.0,
+      "hash": "03cfc787cf8f8f0c"
+    },
+    {
+      "time": 20.0,
+      "hash": "03cfc7878f8f8f0c"
+    },
+    {
+      "time": 21.0,
+      "hash": "10363f34606f4f1b"
+    },
+    {
+      "time": 22.0,
+      "hash": "18323634206f4f0f"
+    },
+    {
+      "time": 23.0,
+      "hash": "1032373f60604c4f"
+    },
+    {
+      "time": 24.0,
+      "hash": "3074666f66405c1e"
+    },
+    {
+      "time": 25.0,
+      "hash": "ffffffff00000000"
+    },
+    {
+      "time": 26.0,
+      "hash": "ffffffff00000000"
+    },
+    {
+      "time": 27.0,
+      "hash": "ffffffff00000000"
+    },
+    {
+      "time": 28.0,
+      "hash": "ffffffff00000000"
+    },
+    {
+      "time": 29.0,
+      "hash": "ffffffff00000000"
+    },
+    {
+      "time": 30.0,
+      "hash": "ffffffff00000000"
+    }
+  ]
+}
