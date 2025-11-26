@@ -3,7 +3,7 @@ Hey there,
 
 A simple Python project to detect pirated copies of videos using frame hashing.
 
-## How this systemWorks
+## How does  this system works
 
 1. **Original Movie Processing (Fingerprint Creation)**  
    - Take the official/original video.  
